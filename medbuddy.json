@@ -1,0 +1,60 @@
+{
+  "hospitals": [
+    {
+      "id": 101,
+      "hospitalName": "Apollo",
+      "phone": 2151454
+    },
+    {
+      "id": 102,
+      "hospitalName": "Care",
+      "phone": 214545
+    },
+    {
+      "id": 103,
+      "hospitalName": "Citizen",
+      "phone": 2146556
+    }
+  ],
+  "labs": [],
+  "transactions": [
+    {
+      "id": 101,
+      "details": "labTest",
+      "date": "2014-09-11",
+      "value": 4500
+    },
+    {
+      "id": 201,
+      "details": "Doctor Fee",
+      "date": "2018-12-12",
+      "value": 400
+    },
+    {
+      "id": 301,
+      "details": "Dentist",
+      "date": "2014-13-12",
+      "value": 5000
+    }
+  ],
+  "doctors": [
+    {
+      "id": 101,
+      "name": "Anil",
+      "location": "Hyderabad",
+      "specialization": "Dentist"
+    },
+    {
+      "id": 201,
+      "name": "Kumar",
+      "location": "Chennai",
+      "specialization": "ENT"
+    },
+    {
+      "id": "301",
+      "location": "Hyderbad",
+      "name": "Anil Kumar",
+      "specialization": "ENT"
+    }
+  ]
+}

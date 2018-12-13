@@ -1,0 +1,22 @@
+{
+    "customers":[
+        {
+            "Id":201,
+            "Name":"Anil",
+            "Email":"ancd@gmail.com",
+            "DOB":"12/20/2018"
+        },
+        {
+            "Id":301,
+            "Name":"Kumar",
+            "Email":"abcd@gmail.com",
+            "DOB":"11/20/2018"
+        },
+        {
+            "Id":401,
+            "Name":"Anil Kumar",
+            "Email":"asdfncd@gmail.com",
+            "DOB":"10/20/2018"
+        }
+    ]
+}
